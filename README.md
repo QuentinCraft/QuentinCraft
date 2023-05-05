@@ -7,10 +7,10 @@
 🌱 I am currently studying at Epitech Strasbourg  
 🔭 I am happy to discover new technologies
 
-## Here are my Github's Stats
+## My Github's Stats
 ![CPU64x's stats](https://github-readme-stats.vercel.app/api?username=CPU64x&count_private=true&show_icons=true&theme=transparent)
 
-## Here are my Top Langs on my public repository
+## My Top Langs on my public repository
 [![CPU64x's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPU64x&layout=compact&theme=tokyonight&exclude_repo=Dashboard&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
