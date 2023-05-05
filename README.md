@@ -3,6 +3,10 @@
 
 ## I am Quentin ERDINGER
 
+💬 I am 19 years old  
+🌱 I am currently studying at Epitech Strasbourg  
+🔭 I am happy to discover new technologies
+
 ![CPU64x's stats](https://github-readme-stats.vercel.app/api?username=CPU64x&count_private=true&show_icons=true&theme=transparent)
 
 
