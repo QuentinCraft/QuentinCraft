@@ -3,7 +3,7 @@
 
 ## I am Quentin ERDINGER
 
-💬 I am 20 years old  
+💬 I am 21 years old  
 🌱 I am currently studying at Epitech Strasbourg  
 🔭 I am happy to discover new technologies
 
