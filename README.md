@@ -36,6 +36,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ![Next.js](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000)
 ![Express](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=000000)
 ![ASP.NET](https://img.shields.io/badge/Code-ASP.NET-informational?style=flat&logo=dotnet&logoColor=white&color=512BD4)
+![SwiftUI](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=FA7343)
 
 ![Tools](https://img.shields.io/badge/Tools-Tools-informational?style=flat&logo=code&logoColor=white&color=000000)    
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
