@@ -14,6 +14,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 ## Technologies & Tools 🛠️
 <div align="center">
+<span style="pointer-events: none;">
 
 ![OS](https://img.shields.io/badge/OS-OS-informational?style=flat&logo=windows&logoColor=white&color=0078d4)  
 ![MacOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=0070c9)
@@ -58,6 +59,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ![Tools](https://img.shields.io/badge/Tools-Tools-informational?style=flat&logo=code&logoColor=white&color=000000)  
 ![Jira](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=0052CC)
 
+</span>
 </div>
 
 
