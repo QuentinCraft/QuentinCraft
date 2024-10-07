@@ -59,7 +59,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ## Connect with Me 🤝
 [![Linkedin: Quentin ERDINGER](https://img.shields.io/badge/-Quentin_ERDINGER-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quentin-erdinger-812588228/)](https://www.linkedin.com/in/quentin-erdinger-812588228/)
 
-## My Top Langs on my public repository
+## My Top Langs on my public repository 📊
 <div align="center">
 
 [![CPU64x's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinCraft&layout=compact&theme=tokyonight&exclude_repo=Dashboard&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
