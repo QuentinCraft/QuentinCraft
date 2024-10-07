@@ -8,6 +8,9 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 💬 I am 21 years old  
 🌱 I am currently studying at Epitech Strasbourg and doing a Masters at the University of Kent (Msc Advanced Computer Science)
 
+## Connect with Me 🤝
+[![Linkedin: Quentin ERDINGER](https://img.shields.io/badge/-Quentin_ERDINGER-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quentin-erdinger-812588228/)](https://www.linkedin.com/in/quentin-erdinger-812588228/)  
+
 ## What am I doing ? 🚀
 🔭 I am happy to discover new technologies  
 🌱 I’m learning AI, DevOps and Cloud Services
@@ -61,10 +64,6 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 </span>
 </div>
-
-
-## Connect with Me 🤝
-[![Linkedin: Quentin ERDINGER](https://img.shields.io/badge/-Quentin_ERDINGER-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quentin-erdinger-812588228/)](https://www.linkedin.com/in/quentin-erdinger-812588228/)  
 
 ## My Top Langs on my public repository 📊
 <div align="center">
