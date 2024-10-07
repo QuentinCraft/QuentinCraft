@@ -86,3 +86,6 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ```
 
 </div>
+
+If you are interested in collaborating on a project, I’d love to hear from you ! I'm always open to new opportunities and partnerships. 😊  
+And if you happen to find any bugs or issues one a project, just remember: they are simply undocumented features waiting to be discovered ! 😂
