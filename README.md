@@ -62,7 +62,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 
 ## Connect with Me 🤝
-[![Linkedin: Quentin ERDINGER](https://img.shields.io/badge/-Quentin_ERDINGER-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quentin-erdinger-812588228/)](https://www.linkedin.com/in/quentin-erdinger-812588228/)
+[![Linkedin: Quentin ERDINGER](https://img.shields.io/badge/-Quentin_ERDINGER-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quentin-erdinger-812588228/)](https://www.linkedin.com/in/quentin-erdinger-812588228/)  
 
 ## My Top Langs on my public repository 📊
 <div align="center">
@@ -92,5 +92,10 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 </div>
 
+<div align="center">
+
 If you are interested in collaborating on a project, I’d love to hear from you ! I'm always open to new opportunities and partnerships. 😊  
+
 And if you happen to find any bugs or issues one a project, just remember: they are simply undocumented features waiting to be discovered ! 😂
+
+</div>
