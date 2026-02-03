@@ -13,7 +13,7 @@ Current development focuses on improving safety, modularity, backward compatibil
 Open-source contributions brought : Nuget librairies [Listed on Nuget.org](https://www.nuget.org/profiles/Luxoria)  
 
 ## My master's thesis
-Evaluates the performance and feasibility of pointer and NaN tagging techniques in a Rust-based implementation of the SOM interpreter. The research compares different tagging strategies for representing dynamic values efficiently while maintaining memory safety and runtime performance. [**Thesis Material**](https://github.com/qerdinger/uok-msc-thesis)
+Evaluates the performance and feasibility of pointer and NaN tagging techniques in a Rust-based implementation of the SOM interpreter. The research compares different tagging strategies for representing dynamic values efficiently while maintaining memory safety and runtime performance. [**Thesis**](https://github.com/qerdinger/uok-msc-thesis)  [**Thesis Material**](https://github.com/qerdinger/som-rs)
 
 ## Thanks for visiting my profile
 
