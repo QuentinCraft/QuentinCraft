@@ -2,7 +2,7 @@
 
 ## Who am I ?
 I am Quentin ERDINGER, 22 years old, computer science student studying at Epitech and MSc Advanced Computer Science Graduate at the University of Kent - School of Computing in 2025.  
-I enjoy discovering new languages, technologies, architectures and methodologies, such as AI and ML, .NET, Rust, C++ and cloud services.
+I enjoy discovering new languages, technologies, architectures and methodologies, such as AI and ML, Web Technologies, Java, .NET, Rust, C++, Python and cloud services.
 
 ## Reach Out
 [![Linkedin: Quentin ERDINGER via in/quentin-erdinger](https://img.shields.io/badge/-Quentin_ERDINGER-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quentin-erdinger-812588228/)](https://www.linkedin.com/in/quentin-erdinger-812588228/)
